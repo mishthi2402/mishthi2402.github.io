@@ -1,0 +1,1 @@
+Read README.md. This export is ready for GitHub Pages. Build with python3 build.py. Preserve existing design and content. Edit CSS in dist/style.css. Keep dist/assets in Git. Deployment workflow: .github/workflows/deploy-pages.yml. It publishes dist on pushes to main.

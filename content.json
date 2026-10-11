@@ -1,0 +1,148 @@
+[
+  {
+    "slug": "thesis",
+    "n": "01",
+    "type": "Master’s thesis",
+    "title": "Economic narratives in art",
+    "subtitle": "Reading Mumbai’s economic transformation through paintings.",
+    "image": "thesis-1.jpeg",
+    "tags": "Visual history · Mumbai · Economic history",
+    "intro": "How can a painting become a historical source? This thesis explores Mumbai’s transformation from a fishing village into a financial centre through the work of European artists from the 17th to 19th centuries.",
+    "sections": [
+      [
+        "The question",
+        "Artworks can reveal perspectives absent from written records. This research examines what depictions of maritime trade, cotton markets, infrastructure, and everyday life tell us about Mumbai’s economic past—and where artistic bias limits those interpretations."
+      ],
+      [
+        "Reading images alongside records",
+        "A qualitative method combines visual analysis with historical contextualisation. Works by Philippus Baldaeus, George Lambert, James Forbes, James Wales, Robert Melville Grindlay, John Lockwood Kipling, William Simpson, and John Griffiths are examined for subject matter, composition, and iconography. Visual observations are cross-referenced with written records."
+      ],
+      [
+        "From harbours to cotton markets",
+        "Early maps and port scenes foreground colonial presence and maritime power. Forbes’s View of Bombay Green and Grindlay’s illustrations reveal cotton markets and commercial networks. Kipling’s sketches offer evidence of the cotton industry while also exposing unequal relationships between Indian figures and English merchants."
+      ],
+      [
+        "Infrastructure and everyday life",
+        "James Wales’s watercolours record forts, harbours, and the Breach Causeway. Simpson’s Street Scene in Bombay and Griffiths’s A Drink on the Way shift attention to daily life and housing. Together, these sources trace changes in the built environment and the experiences of different social groups."
+      ],
+      [
+        "What the research reveals",
+        "The visual record shifts from maritime and fort imagery toward markets, industry, and urban infrastructure. It also documents colonial stratification and economic inequality. Restricted access to some artworks and the biases of their makers remain important limits: images are interpreted as situated evidence, alongside other sources."
+      ]
+    ]
+  },
+  {
+    "slug": "numismatic-documentation",
+    "n": "02",
+    "type": "Government internship",
+    "title": "Mughal coin hoard of Patur",
+    "subtitle": "Cataloguing 3,600 Mughal Mohurs from the Surat mint, found at Patur.",
+    "image": "numismatic-documentation-0.jpg",
+    "tags": "Numismatics · Documentation · Material culture",
+    "intro": "An internship project at the Gazetteers Department, Government of Maharashtra, documenting the Mughal coin hoard of Surat Mint from Patur for academic research and official heritage records.",
+    "sections": [
+      [
+        "The task",
+        "Create a systematic catalogue of all 3,600 Mohurs, preserve their numismatic data, and classify calligraphic variations. The work connects material documentation with questions about circulation, mint production, and regional economic history."
+      ],
+      [
+        "Assessment and photography",
+        "The initial assessment examined the coins and their preservation conditions. Photography protocols and data templates were established before recording both the obverse and reverse of each coin with a scale reference."
+      ],
+      [
+        "Reading calligraphic variation",
+        "Calligraphy served as the primary classification criterion. Differences in script and engraving traditions informed the identification of two main types, alongside the recording of mint marks and administrative details."
+      ],
+      [
+        "The outcome",
+        "All 3,600 Mohurs were documented with complete photographic coverage and a comprehensive database. Two primary calligraphic types were identified, and a statistical distribution analysis was completed."
+      ],
+      [
+        "Why the collection matters",
+        "The hoard offers evidence of Surat mint’s circulation network, regional monetary integration, and economic activity in medieval Maharashtra. Its catalogue supports further numismatic scholarship while creating an official record for heritage preservation."
+      ]
+    ]
+  },
+  {
+    "slug": "epigraphy-project",
+    "n": "03",
+    "type": "Academic project",
+    "title": "Reading the Naneghat inscription",
+    "subtitle": "A study of the Naneghat inscription of Naganika.",
+    "image": "naneghat-inscription.png",
+    "tags": "Epigraphy · Ancient India · Inscription study",
+    "intro": "An academic study of the Naneghat inscription through site imagery, published readings, and comparison with Ashokan Brahmi.",
+    "sections": [
+      [
+        "Research approach",
+        "The study connects site context, documentary records, textual analysis, and script comparison to examine royal identity and ritual at Naneghat."
+      ]
+    ]
+  },
+  {
+    "slug": "conservation-action-plan",
+    "n": "04",
+    "type": "Academic conservation project",
+    "title": "St. Xavier’s conservation plan",
+    "subtitle": "A conservation action plan for St. Xavier’s College, Mumbai.",
+    "image": "conservation-action-plan-2.jpg",
+    "tags": "Built heritage · Material analysis · Conservation",
+    "intro": "A comprehensive assessment of St. Xavier’s College, combining field documentation, scientific material analysis, and conservation planning to support the preservation of its cultural and historical significance.",
+    "report": "/assets/conservation-report.pdf",
+    "sections": [
+      [
+        "Looking closely",
+        "Field surveys combined visual inspection with laser distometry, digital microscopy, UV light, GPS, and EpiCollect5. Google Earth mapping and collaborative surveys situated observations across the site."
+      ],
+      [
+        "Understanding the materials",
+        "Eleven samples were gathered from the chapel, terrace, expansion joint, and quadrangle. Chemical testing and microscopy identified basalt, limestone, rhyolite, and mortars, while revealing biodeterioration and structural decay."
+      ],
+      [
+        "Assessing the risks",
+        "A damage catalogue and risk matrix recorded cracking, water damage, biodeterioration, and structural deterioration. The assessment reported biodeterioration affecting 60% of terrace structures and identified vulnerabilities in expansion joints, floors, and masonry."
+      ],
+      [
+        "Turning evidence into a plan",
+        "Recommendations included water-repellent silane/siloxane sealants, regular maintenance, poultice treatments for stone staining, targeted rust removal, and restoration of missing architectural elements."
+      ],
+      [
+        "The outcome",
+        "The 68-page conservation action plan identifies high-risk areas and outlines preventive and remedial strategies. The work brought together field investigation, technical writing, project coordination, and collaboration with the Geology Department and library resources."
+      ]
+    ]
+  },
+  {
+    "slug": "museum-planning-design",
+    "n": "05",
+    "type": "Museum studies case study",
+    "title": "IZRAZ Art Museum",
+    "subtitle": "From a collection of prehistoric female figurines to a complete museum concept.",
+    "image": "museum-planning-design-0.jpg",
+    "tags": "Museum planning · Collections · Visitor experience",
+    "intro": "An academic case study conceptualising a museum in Mumbai’s Fort area—from its collection and conservation protocols to staffing, budgets, and visitor circulation.",
+    "report": "/assets/museum-case-study.pdf",
+    "sections": [
+      [
+        "A collection with a point of view",
+        "The theme of prehistoric female figurines was selected through a review of underrepresented museum subjects. The proposed collection spans Egypt, Greece, Mesopotamia, and Pakistan, covering 5000–2500 BCE and materials including limestone, ivory, bone, ceramic, marble, and terracotta."
+      ],
+      [
+        "Building the collection framework",
+        "Six artefacts were documented with provenance, acquisition histories, condition reports, and accession numbers. Historical research and international museum standards informed the object records."
+      ],
+      [
+        "Conservation and preparedness",
+        "Material-specific protocols drew on Canadian Conservation Institute guidance, British Museum standards, and Durham University limestone conservation protocols. Disaster planning adapted guidance from the Fort Missoula Museum and the American Alliance of Museums."
+      ],
+      [
+        "Planning the institution",
+        "The proposal defines staff responsibilities, salaries, funding strategies, and an annual budget of ₹2 crores. It also covers accessibility, educational programming, community engagement, display cases, environmental controls, gallery layouts, lighting, and circulation."
+      ],
+      [
+        "The outcome",
+        "A 55-page planning document supported by more than 60 academic references brings collection management, conservation, institutional operations, and physical design into one museum proposal. The proposal considers the relationship between collection care, institutional operations, and visitor access."
+      ]
+    ]
+  }
+]
